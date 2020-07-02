@@ -1,5 +1,5 @@
 {
-  "name": "typescript",
+  "name": "typescript-estudos",
   "version": "1.0.0",
   "description": "TypeScript - Estudos",
   "main": "index.js",
@@ -19,5 +19,9 @@
   "homepage": "https://github.com/regeshengen/typescript#readme",
   "dependencies": {
     "git-commit-msg-linter": "^2.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.14",
+    "typescript": "^3.9.6"
   }
 }
