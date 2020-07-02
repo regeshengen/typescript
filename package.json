@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/regeshengen/typescript/issues"
   },
-  "homepage": "https://github.com/regeshengen/typescript#readme"
+  "homepage": "https://github.com/regeshengen/typescript#readme",
+  "dependencies": {
+    "git-commit-msg-linter": "^2.4.4"
+  }
 }
