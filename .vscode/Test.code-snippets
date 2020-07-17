@@ -1,0 +1,15 @@
+{
+
+	"test": {
+		"scope": "javascript,typescript",
+		"prefix": "test",
+		"body": [
+			"describe('', () => {",
+				"test('', () => {",
+				"$1",
+				"})",
+			"})"
+		],
+		"description": "Jest Test"
+	}
+}
